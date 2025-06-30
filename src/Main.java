@@ -26,7 +26,7 @@ public class Main {
 
     private static void loginAcc() throws IOException {
         Login loginFun = new Login();
-        loginFun.loginFun();
+        loginFun.loginFun(); 
     }
 
     private static void createAcc() throws IOException {

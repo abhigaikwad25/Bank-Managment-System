@@ -2,6 +2,8 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
+
+
 public class BalanceInquiry {
     void balanceInquiryFun(int accNo) throws IOException {
         File file = new File("../db/balanceDB.txt");
